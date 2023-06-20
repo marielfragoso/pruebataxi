@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "879151378677",
+    "project_id": "taxi-1015c",
+    "storage_bucket": "taxi-1015c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:879151378677:android:68749a7c9403ae108615bc",
+        "android_client_info": {
+          "package_name": "edu.itsco.taxi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "879151378677-mpp98siru1g3lpe7e3h9sfou6n9amu9l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAk-inYGoJN4P089UNQV1DIn9FIEegT4o8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "879151378677-mpp98siru1g3lpe7e3h9sfou6n9amu9l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
